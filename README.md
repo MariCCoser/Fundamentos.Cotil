@@ -1,6 +1,5 @@
 # Fundamentos de Informática 
 
-
 ##Sobre Mim## 
  Meu nome é **Marina Calchi Coser**, tenho 15 anos estudo no cotil, mas moro em outra cidade. Moro em Conchal, SP.
 
