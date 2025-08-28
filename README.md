@@ -8,15 +8,16 @@
 
 
 ### Habilidades 
-    -Me adapto bem as atividades
-    -(Sou criativa)[https://www.significados.com.br/criatividade/]
-    -Gostaria de Ser mais comunicativa
+- Me adapto bem as atividades
+- (Sou criativa)[https://www.significados.com.br/criatividade/]
+- Gostaria de Ser mais comunicativa
 
 
 ## Meu Primeiro Programa
-    Abaixo ha um codigo em Linguagem C, usando `printf`, a seguir o código:
+Abaixo ha um codigo em Linguagem C, usando `printf`, a seguir o código:
 
-    ```int main(){
+```
+    int main(){
     printf("Hello World!");
     }
 
